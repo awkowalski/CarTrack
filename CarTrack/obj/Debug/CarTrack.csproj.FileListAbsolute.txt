@@ -1,0 +1,9 @@
+c:\users\sprytny_mops\documents\visual studio 2017\Projects\CarTrack\CarTrack\bin\Debug\CarTrack.exe.config
+c:\users\sprytny_mops\documents\visual studio 2017\Projects\CarTrack\CarTrack\bin\Debug\CarTrack.exe
+c:\users\sprytny_mops\documents\visual studio 2017\Projects\CarTrack\CarTrack\bin\Debug\CarTrack.pdb
+c:\users\sprytny_mops\documents\visual studio 2017\Projects\CarTrack\CarTrack\obj\Debug\CarTrack.csprojResolveAssemblyReference.cache
+c:\users\sprytny_mops\documents\visual studio 2017\Projects\CarTrack\CarTrack\obj\Debug\CarTrack.Form1.resources
+c:\users\sprytny_mops\documents\visual studio 2017\Projects\CarTrack\CarTrack\obj\Debug\CarTrack.Properties.Resources.resources
+c:\users\sprytny_mops\documents\visual studio 2017\Projects\CarTrack\CarTrack\obj\Debug\CarTrack.csproj.GenerateResource.Cache
+c:\users\sprytny_mops\documents\visual studio 2017\Projects\CarTrack\CarTrack\obj\Debug\CarTrack.exe
+c:\users\sprytny_mops\documents\visual studio 2017\Projects\CarTrack\CarTrack\obj\Debug\CarTrack.pdb
